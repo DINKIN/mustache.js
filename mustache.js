@@ -394,3 +394,5 @@ var Mustache = function() {
     }
   });
 }();
+
+if (typeof module != 'undefined') { module.exports = Mustache }

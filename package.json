@@ -1,0 +1,8 @@
+{
+  "name": "mustache",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clover/mustache.js.git"
+  },
+  "main": "mustache.js"
+}
