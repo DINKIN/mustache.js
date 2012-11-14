@@ -1,5 +1,6 @@
 {
   "name": "mustache",
+  "version": "0.0.1-dev",
   "repository": {
     "type": "git",
     "url": "git://github.com/clover/mustache.js.git"
